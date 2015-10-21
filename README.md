@@ -5,6 +5,7 @@ http://www.userfrosting.com
 If you simply want to show that you like this project, or want to remember it for later, you should **star**, not **fork**, this repository.  Forking is only for when you are ready to create your own copy of the code to work on.
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/tbrown0139/k?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Build Status](https://travis-ci.org/tbrown0139/k.svg?branch=master)](https://travis-ci.org/tbrown0139/k)
 
 
 ## By [Trevor Brown]
