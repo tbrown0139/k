@@ -6,6 +6,9 @@ If you simply want to show that you like this project, or want to remember it fo
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/tbrown0139/k?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 [![Build Status](https://travis-ci.org/tbrown0139/k.svg?branch=master)](https://travis-ci.org/tbrown0139/k)
+[![Coverage Status](https://coveralls.io/repos/tbrown0139/k/badge.svg?branch=master&service=github)](https://coveralls.io/github/tbrown0139/k?branch=master)
+[![Documentation Status](https://readthedocs.org/projects/ksystem/badge/?version=latest)](http://ksystem.readthedocs.org/en/latest/?badge=latest)
+[![Docker Repository on Quay.io](https://quay.io/repository/tbrown0139/jiq/status "Docker Repository on Quay.io")](https://quay.io/repository/tbrown0139/jiq)
 
 
 ## By [Trevor Brown]
